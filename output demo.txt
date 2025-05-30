@@ -1,0 +1,112 @@
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 7090076326
+Welcome V Sai Kishore
+
+OTP sent to your phone: 490771
+
+Enter OTP: 490777
+Incorrect OTP. Try again.
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 7090076326
+Welcome V Sai Kishore
+
+OTP sent to your phone: 142005
+
+Enter OTP: 142005
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 2
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 3
+Enter PIN: 4567
+Your current balance is: ₹ 30000
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Fri May 30 12:51:19 2025
+------------------------------------------------------------
+Customer Name:     V Sai Kishore
+Account Number:    40061234990
+Customer Card :      xxxx xxxx xxxx 1815
+Transaction:            Balance Enquiry
+Available Balance:   ₹ 30000
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8183838838
+Welcome Srinivas Rao B
+
+OTP sent to your phone: 277944
+
+Enter OTP: 277944
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 1
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 1
+Enter PIN: 2827
+Enter amount to withdraw: ₹5246
+Withdraw Successful
+Your updated balance is: ₹ 19754
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Fri May 30 12:51:19 2025
+------------------------------------------------------------
+Customer Name:     Srinivas Rao B
+Account Number:    40400609771
+Customer Card :      xxxx xxxx xxxx 4828
+Transaction:            Withdraw
+Amount:                  ₹ 5246
+Available Balance:   ₹ 19754
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8183838838
+Welcome Srinivas Rao B
+
+OTP sent to your phone: 505899
+
+Enter OTP: 505899
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 4
+Thank you for using our ATM. Goodbye!
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 
